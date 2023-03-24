@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "postinfectious"]
+	path = postinfectious
+	url = https://github.com/cran/postinfectious
+	shallow = true
+	registered = true
